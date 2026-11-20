@@ -1,0 +1,59 @@
+total 84
+drwxr-x--- 11 nivedita nivedita 4096 Nov 20 09:40 .
+drwxr-xr-x  3 root     root     4096 Oct  5 11:40 ..
+-rw-------  1 nivedita nivedita 6639 Nov 20 09:45 .bash_history
+-rw-r--r--  1 nivedita nivedita  220 Oct  5 11:40 .bash_logout
+-rw-r--r--  1 nivedita nivedita 3771 Oct  5 11:40 .bashrc
+drwxr-x---  4 nivedita nivedita 4096 Oct  5 11:41 .cache
+drwxr-x---  3 nivedita nivedita 4096 Oct  5 11:41 .config
+-rw-r--r--  1 nivedita nivedita   95 Nov  6 06:53 .gitconfig
+drwxr-xr-x  2 nivedita nivedita 4096 Oct  9 00:19 .landscape
+-rw-------  1 nivedita nivedita   20 Nov  6 06:54 .lesshst
+drwx------  3 nivedita nivedita 4096 Oct  9 00:36 .local
+-rw-rw-r--  1 nivedita nivedita    0 Nov 20 09:39 .motd_shown
+-rw-r--r--  1 nivedita nivedita  807 Oct  5 11:40 .profile
+-rw-r--r--  1 nivedita nivedita   18 Oct  9 00:41 04.txt
+-rw-r--r--  1 nivedita nivedita   38 Oct  9 00:42 08.txt
+-rw-r--r--  1 nivedita nivedita   20 Oct  9 00:37 24.txt
+-rw-r--r--  1 nivedita nivedita    0 Nov  6 10:00 An
+drwxr-xr-x  8 nivedita nivedita 4096 Nov 20 09:41 DeveloperPortfolio
+drwxr-xr-x  2 nivedita nivedita 4096 Oct  7 01:58 Linux
+drwxr-xr-x  3 nivedita nivedita 4096 Nov  6 06:54 cse103_lab
+d-wxr-xr-x  6 nivedita nivedita 4096 Oct  7 02:13 linux_practice
+d---------  3 nivedita nivedita 4096 Oct  9 01:16 nitika_folder
+PROCESS INFORMATION
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.2  0.1  24328 15372 ?        Ss   09:39   0:01 /sbin/init
+root           2  0.0  0.0   3820  2528 hvc0     Sl+  09:39   0:00 /init
+root           3  0.0  0.0   3680  2220 hvc0     S+   09:39   0:00 init-watcher
+root           7  0.0  0.0   3820  2292 hvc0     Sl+  09:39   0:00 plan9 --control-socket 7 --log-level 4 --server-fd 8 --pipe-fd 10 --log-truncate
+root          47  0.0  0.2  50648 17548 ?        S<s  09:39   0:00 /usr/lib/systemd/systemd-journald
+systemd+      82  0.0  0.1  22416 14484 ?        Ss   09:39   0:00 /usr/lib/systemd/systemd-resolved
+root          89  0.1  0.1  34780 11992 ?        Ss   09:39   0:00 /usr/lib/systemd/systemd-udevd
+root         112  0.0  0.0   2888  1944 ?        Ss   09:39   0:00 /bin/sh /usr/lib/systemd/scripts/chronyd-starter.sh -n -F 1
+root         113  0.0  0.0   4472  3100 ?        Ss   09:39   0:00 /usr/sbin/cron -f -P
+DISK USAGE
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.18.58.1-microsoft-standard-WSL2
+/dev/sdb         97M   97M     0 100% /usr/src/linux-headers-6.18.58.1-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         237G   77G  161G  33% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.4G  955G   1% /
+none            3.9G   36K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  3.4M  3.9G   1% /init
+none            3.9G  516K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   80K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   80K  3.9G   1% /mnt/wslg/doc
+C:\             237G   77G  161G  33% /mnt/c
+tmpfs           3.9G     0  3.9G   0% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           783M   12K  783M   1% /run/user/1000
+MEMORY USAGE
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       486Mi       7.1Gi       4.1Mi       186Mi       7.2Gi
+Swap:          2.0Gi          0B       2.0Gi
