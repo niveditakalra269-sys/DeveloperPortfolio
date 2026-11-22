@@ -2,15 +2,17 @@
 
 ## 1. Hardware and Software Specifications
 
+
 | Component | Specification |
 |---|---|
-| CPU Model | [Enter your CPU model] |
-| Number of Cores | [Enter number] |
-| Total RAM | [Enter RAM] |
-| Available RAM | [Enter RAM] |
-| Primary Storage | [Enter size and SSD/HDD] |
-| Operating System | [Enter OS name] |
-| Kernel Version | [Enter kernel version] |
+| CPU Model | Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz |
+| Number of Cores | 8 |
+| Total RAM | 7.6 GiB |
+| Available RAM | 7.1 GiB |
+| Primary Storage | 1 TB SSD |
+| Operating System | Ubuntu GNU/Linux (WSL2) |
+| Kernel Version | 6.18.58.1-microsoft-standard-WSL2 (x86_64) |
+
 
 ## 2. Binary Number Representation
 
