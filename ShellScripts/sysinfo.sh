@@ -9,7 +9,7 @@ echo "       SYSTEM INFORMATION REPORT"
 echo "======================================"
 
 echo "Name: Nivedita Kalra"
-echo "Roll Number: YOUR_ROLL_NUMBER"
+echo "Roll Number: 2601730422"
 echo "Date: $(date)"
 
 echo ""
