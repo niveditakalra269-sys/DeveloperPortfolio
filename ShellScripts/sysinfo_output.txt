@@ -1,0 +1,19 @@
+==========================================
+         SYSTEM INFORMATION REPORT
+==========================================
+Name: Nivedita Kalra | Roll No: 2601730422 | Date: Sun Nov 22 09:48:01 PST 2026
+------------------------------------------
+CPU Model & Cores:
+CPU(s):                                  8
+Model name:                              Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz
+------------------------------------------
+Memory Usage (Total & Used):
+Total: 7.6Gi | Used: 534Mi
+------------------------------------------
+Top 3 Processes by CPU Usage:
+    PID COMMAND         %CPU
+    791 bash             5.7
+    787 (udev-worker)    0.3
+     90 systemd-udevd    0.0
+------------------------------------------
+Report generated successfully.
