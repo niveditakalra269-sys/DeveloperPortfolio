@@ -39,3 +39,11 @@
 
 ### 6. Long-Term Goal
 To become a skilled AI/ML engineer by developing strong programming, analytical and practical problem-solving skills.
+
+
+## Semester-Wise Action Plan
+
+* **Semester 1 (Current):** Mastering Linux command-line workflows, Bash shell scripting, Git/GitHub collaboration, REST APIs, and building this `DeveloperPortfolio` capstone milestone.
+* **Semester 2:** Deepening core computer science foundations including **Data Structures & Algorithms**, **Relational Databases (SQL)**, and **Web Development basics (HTML, CSS, JavaScript)**.
+* **Semester 3 Onwards:** Specializing in the **Artificial Intelligence & Machine Learning / Data Science** track through hands-on ML models, Python data pipelines, and open-source projects.
+* **Target Certification (Before End of Semester 2):** Complete the *CS50's Introduction to Programming with Python* or *AWS Cloud Practitioner / Google IT Automation with Python* certification.
